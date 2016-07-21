@@ -1,0 +1,14 @@
+[package]
+name = "andrei"
+version = "0.1.0"
+authors = ["me"]
+
+
+[dependencies]
+iron = "0.3"
+router = "*"
+hyper = "*"
+rustc-serialize = "*"
+nix = "*"
+rand = "*"
+libc = "*"
